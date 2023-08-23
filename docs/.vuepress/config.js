@@ -5,7 +5,7 @@ export default ({
   lang: 'zh-CN',
   title: '15:15修改了首页',
   description: '这是我的第一个 VuePress 站点',
-  base: '/jioyla.github.io/',
+  base: '/',
   heme: defaultTheme({
     // 默认主题配置
     navbar: [
