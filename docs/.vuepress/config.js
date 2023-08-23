@@ -5,7 +5,7 @@ module.exports = {
   // theme:{
   //   layout: 'CustomLayout',
   // },
-  base: "/Jessie-blog/",
+  base: "/",
   locales: {
     "/": {
       lang: "zh-CN",
@@ -38,7 +38,7 @@ module.exports = {
       // },
       {
         title: "博客搭建",
-        path: "/construction/Blog1",
+        path: "/test",
         collapsable: false, // 不折叠
         children: [{ title: "Blog 01", path: "/construction/Blog1" }],
       },
