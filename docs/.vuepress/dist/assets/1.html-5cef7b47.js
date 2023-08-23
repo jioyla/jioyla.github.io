@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as o,a as e}from"./app-7a72e334.js";const s={},n=e("p",null,"你我他",-1),c=e("p",null,"jkjj",-1),l=e("p",null,"fsdfa",-1),a=e("p",null,"12:54:21",-1),r=[n,c,l,a];function d(i,f){return _(),o("div",null,r)}const h=t(s,[["render",d],["__file","1.html.vue"]]);export{h as default};
