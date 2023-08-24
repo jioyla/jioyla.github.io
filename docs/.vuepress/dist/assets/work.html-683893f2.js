@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-75c43f19","path":"/project/work.html","title":"zheshi wendang","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"project/work.md"}');export{t as data};

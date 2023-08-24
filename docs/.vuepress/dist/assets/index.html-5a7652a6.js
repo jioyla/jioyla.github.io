@@ -1,1 +1,0 @@
-import{_ as t,o as n,c as o,a as e}from"./app-7a72e334.js";const _={},c=e("p",null,"11:30:38",-1),s=e("p",null,"12:14:15",-1),l=[c,s];function a(r,d){return n(),o("div",null,l)}const f=t(_,[["render",a],["__file","index.html.vue"]]);export{f as default};
