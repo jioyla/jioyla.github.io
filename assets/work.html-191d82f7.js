@@ -1,0 +1,1 @@
+import{_ as a,o as n,c as t,a as e,b as s}from"./app-e9e7ee0f.js";const o={},r=e("h1",{id:"zheshi-wendang",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#zheshi-wendang","aria-hidden":"true"},"#"),s(" zheshi wendang")],-1),c=[r];function d(h,_){return n(),t("div",null,c)}const l=a(o,[["render",d],["__file","work.html.vue"]]);export{l as default};
